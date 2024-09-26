@@ -32,15 +32,15 @@
     display: block;
     justify-self: center;
     align-self: center;
-    width: 148px; 
-    height: 105px; 
+    width: 148px;
+    height: 105px;
 }
 
 .adress {
     display: block;
     font-family: Raleway;
     font-weight: normal;
-    font-size: 18px; 
+    font-size: 18px;
     line-height: 1.35;
     justify-self: end;
     max-width: 240.52px;
@@ -68,7 +68,7 @@
     letter-spacing: 30px;
     font-family: Raleway;
     font-weight: bold;
-    font-size: 100px; 
+    font-size: 100px;
     text-transform: uppercase;
 }
 
@@ -90,8 +90,8 @@
     letter-spacing: 0.6em;
 }
 
-.no-letter-spacing { 
-    letter-spacing: 0em; 
+.no-letter-spacing {
+    letter-spacing: 0em;
 }
 
 .cover__description {
@@ -225,20 +225,20 @@
     background-repeat: no-repeat;
     background-size: cover;
     width: 334px;
-    height: 563px; 
+    height: 563px;
     background-position: center;
     padding: 51px 40px;
 }
 
 .lots__look-more-link {
     display: block;
-    text-decoration: underline; 
+    text-decoration: underline;
     background-color: transparent;
     border: none;
     font-family: Raleway;
     font-weight: normal;
     font-size: 20px;
-    margin: 30px 0 0 40px;  
+    margin: 30px 0 0 40px;
     padding-bottom: 180px;
 }
 
@@ -309,7 +309,7 @@ text-decoration: none;
 
 .footer__social-icon {
     width: auto;
-    height: 48px;  
+    height: 48px;
 }
 .footer__social-list {
     display: flex;
