@@ -24,7 +24,6 @@
 
 .header__link_active {
     font-size: 18px;
-    white-space: nowrap;
 }
 
 .header__logo-image {
@@ -120,12 +119,12 @@
     background-repeat: no-repeat;
     border: 1px currentColor solid;
     color: white;
+    font-family: Raleway, sans-serif;
     font-weight: medium;
     font-size: 22px;
     line-height: 1;
     text-transform: uppercase;
     padding: 13px 30px;
-    white-space: nowrap;
 }
 
 .lots {
@@ -283,7 +282,7 @@
 }
 
 .footer__menu-link_active {
-text-decoration: none;
+    text-decoration: none;
 }
 
 .footer__social-icon {
